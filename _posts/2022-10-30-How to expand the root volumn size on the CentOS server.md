@@ -16,7 +16,7 @@ The problem is when he uses the command "lvremove /dev/cl/home" he encounters wi
 
 Then he tries to use the lsof command to find the "process id" in used and kill it. It is not because that ID is used by the systems at the first boot.
 
-I decided to edit the /etc/fstab to remove a mounting command from that file and reboot again without /home to mount. After that, I can use the lvremove command to remove the /home volume and can follow the instruction to expand the /root to 1.7 TB. What happens?
+<b>I decided to edit the /etc/fstab to remove a mounting command from that file and reboot again without /home to mount.</b> After that, I can use the lvremove command to remove the /home volume and can follow the instruction to expand the /root to 1.7 TB. What happens?
 
 The problem was when you connect to the server by SSH client the system will read your profiles inside your home folder then you cannot remove the home volume. When you unmount it from the booting your connection cannot use any file in the /home, thus you can delete them.
 
