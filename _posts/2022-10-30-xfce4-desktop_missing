@@ -1,4 +1,13 @@
 Hello, guy!
 
-This morning I use the command in Linux for remove the libreoffice, after that all xfce4-desktop was missing.
+This morning I use the command in Linux to remove LibreOffice, after that, all xfce4-desktop was missing.
+
+First, I reboot my Orange Pi device, and the system allows me to login into text mode only, no GUI.
+
+after I log in to the terminal I use this command to install the xfce4-desktop:
+
+```
+sudo apt install xfce4-desktop
+```
+
 
