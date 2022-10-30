@@ -2,7 +2,7 @@ The first article I would write is about how to resize the root size on CentOS. 
 
 Last week, when came back from Nan province I read the Line group messages, I saw they have a problem with the disk full on the CentOS system. and they discuss to change its size at night.
 
-Last night, they call me to ask for a consult from me, I give him this link to fix it.
+Last night, they call me to ask for a consult from me, I give him this <a href="https://gist.github.com/troyfontaine/87091bd6a5c68f45dd62ced3d12bc377"> link</a> to fix it.
 
 In a few minutes, he call me and tell me to re-installation the CentOS again I said to do that tomorrow.
 
