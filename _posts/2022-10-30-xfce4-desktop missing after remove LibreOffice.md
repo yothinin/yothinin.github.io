@@ -44,3 +44,7 @@ The Chromium web browser still can not open, I called it on the terminal, and se
 I google for disk full in Linux, especially the Debian platform, and I found /run/user/1000 is used 100%, I think this is the reason for the error.
 
 I go to /run/user/1000 and browse the files, I see the Mozilla Firefox directory and it uses more storage, I remove it, then I can download and install the extension for Chrome.
+
+Now, I can use the GUI in Debian, the Orange Pi 3 LTS device.
+
+The problem still annoys me is the synchronization with the google account is not working and some guy told me that is the policy from Google, I hate that, I hate Google when they upgrade the application the problem will come together.
