@@ -8,9 +8,15 @@ In a few minutes, he called me and told me to re-install CentOS again. I said to
 
 This morning, I came to my desk. I connect to the server and check what he tries to do. He does the same as the step in the link’s instruction but cannot complete it.
 
-The structure of the disk volumes inside is: /root use 100% of 70GB /home use 3% of 1.8TB /swaps (I’m not sure of the number)
+The structure of the disk volumes inside is: 
 
-<b>We need to delete /home and expand /root with the empty disk.</b>
+```
+/root use 100% of 70GB
+/home use 3% of 1.8TB 
+/swaps (I’m not sure of the number)
+```
+
+<b>He needs to delete /home and expand /root with the empty disk.</b>
 
 The problem is when he uses the command “lvremove /dev/cl/home”, he encounters “Logical volume vg/lv contains a filesystem in use.”
 
