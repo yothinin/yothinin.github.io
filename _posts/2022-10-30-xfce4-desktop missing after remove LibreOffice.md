@@ -26,7 +26,7 @@ Don’t forget to install xfce4-screenshooter to capture the screen when you pre
 
 Now the GUI seems as usual but the web browser application is missing too.
 
-I use Firefox-ESR to run as the default web browser because I encounter errors when running after installing chromium.
+I use Firefox-ESR to run as the default web browser before, because I encounter errors when running after installing chromium.
 
 The first error is:
 
@@ -43,6 +43,6 @@ I googled full disk in Linux, especially the Debian platform, and I found /run/u
 
 I go to /run/user/1000 and browse the files. I see the Mozilla Firefox directory and it uses more storage. I remove it, then I can download and install the extension for Chrome.
 
-Now, I can use the GUI in Debian, the Orange Pi 3 LTS device.
+Now, I can use the GUI in Debian on the Orange Pi 3 LTS device, and use Chromium as default browser.
 
 The problem that still annoys me is the synchronization with the Google account is not working and some guy told me that is the policy of Google. I hate that. I hate Google. When they upgrade the application, the problem will come together.
