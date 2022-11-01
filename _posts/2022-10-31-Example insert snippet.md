@@ -55,7 +55,7 @@ SELECT * FROM t_daily
 WHERE dai_date = '2022-10-31'
 ```
 
-```C
+```c_cpp
 #include <stdio.h>
 int main(int argc, char **argv){
   printf ("Hello world!\n");
