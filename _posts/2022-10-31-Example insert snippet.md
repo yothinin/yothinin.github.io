@@ -1,3 +1,17 @@
+> This is the quote block.
+
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+## Using emoji
+
+You can add emoji to your writing by typing :EMOJICODE:.
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
 ---
 Article name: "Example snippet."
 Date: 2022-10-31, 16:30
