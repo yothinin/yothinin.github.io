@@ -26,6 +26,9 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
 
+mermaid:
+  src: 'js/highlightjs/languages/mermaid.min.js'
+
 plugins:
   - jekyll-coffeescript
   - jekyll-feed
