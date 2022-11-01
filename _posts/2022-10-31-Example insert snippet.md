@@ -1,3 +1,14 @@
+# I gave up!
+> I tried to use mermaid and math sign with github blog, but I can't.
+
+try to used html code:
+
+> h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+
+> c&#xB2; = &radic;a&#xB2;+b&#xB2;
+
+---
+
 > This is the quote block.
 
 For example, the following Markdown,
