@@ -27,6 +27,7 @@ kramdown:
     disable: true
     
 plugins:
+  - jekyll-coffeescript
   - jekyll-feed
   - jekyll-sitemap
   - techdocs-core
