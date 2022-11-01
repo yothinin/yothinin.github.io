@@ -39,7 +39,7 @@ Date: 2022-10-31, 16:30
 Author: yothinin
 ---
 
-```sql
+```tsql
 SELECT * FROM t_daily
 WHERE dai_date = '2022-10-31'
 ```
