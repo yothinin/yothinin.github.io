@@ -1,16 +1,37 @@
 > This is the quote block.
 
+For example, the following Markdown,
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
+$c^2 = \sqrt{a^2+b^2}$
+
+* $sin = o/h$
+* $cos = a/h$
+* $tan = o/a$
+
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-## Using emoji
+# Using emoji
 
 You can add emoji to your writing by typing :EMOJICODE:.
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+The lists:
+
+- first
+- second
+- third
+- forth
+  * one
+  * two
+  * three
 
 ---
 Article name: "Example snippet."
