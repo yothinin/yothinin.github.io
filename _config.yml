@@ -27,14 +27,14 @@ kramdown:
     disable: true
 
 mermaid:
-  version: "9.1.7"
+  version: "9.1.3"
 
 plugins:
   - jekyll-coffeescript
   - jekyll-feed
   - jekyll-sitemap
   - techdocs-core
-  - mermaid2
+  - mermaid
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
