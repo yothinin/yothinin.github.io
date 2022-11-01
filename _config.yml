@@ -26,19 +26,10 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
 
-mermaid:
-  version: "9.1.3"
-
 plugins:
   - jekyll-coffeescript
   - jekyll-feed
   - jekyll-sitemap
-  - techdocs-core
-  - mermaid
-
-extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
-  - https://unpkg.com/mermaid@9.1.7/dist/
 
 titles_from_headings:
   strip_title: true
