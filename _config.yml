@@ -25,7 +25,10 @@ rss: rss
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
+mermaid:
+  version: "9.1.7"
+
 plugins:
   - jekyll-coffeescript
   - jekyll-feed
