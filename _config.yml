@@ -40,7 +40,7 @@ titles_from_headings:
   
 scripts:
   - assets/mermaid.min.js
-  - _include/mermaid.min.js
+  - _includes/mermaid.min.js
 
 defaults:
   - scope:
