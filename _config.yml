@@ -37,6 +37,9 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections: true
+  
+scripts:
+  - assets/mermaid.min.js
 
 defaults:
   - scope:
