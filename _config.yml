@@ -29,7 +29,12 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - techdocs-core
   - mermaid2
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
 
 titles_from_headings:
   strip_title: true
